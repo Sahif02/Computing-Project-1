@@ -33,8 +33,8 @@ Built for cybersecurity students, professionals, and small businesses, YoInspect
 
 ### Steps
 1. Clone the repository:
-   git clone https://github.com/Sahif02/Computing-Project-1.git
-   cd YoInspector
+   - git clone https://github.com/Sahif02/Computing-Project-1.git
+   - cd Computing-Project-1
 
 2. Install dependencies:
    sudo apt update && sudo apt install metasploit-framework python3-pip
