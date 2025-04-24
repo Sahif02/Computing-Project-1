@@ -33,7 +33,7 @@ Built for cybersecurity students, professionals, and small businesses, YoInspect
 
 ### Steps
 1. Clone the repository:
-   git clone https://github.com/yourusername/YoInspector.git
+   git clone https://github.com/Sahif02/Computing-Project-1.git
    cd YoInspector
 
 2. Install dependencies:
