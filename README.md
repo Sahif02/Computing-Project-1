@@ -30,6 +30,7 @@ Built for cybersecurity students, professionals, and small businesses, YoInspect
 - **Kali Linux** (recommended) or Debian-based OS
 - **Python 3.7+**
 - **Metasploit Framework**
+- **Run as Root** (recommended)
 
 ### Steps
 1. Clone the repository:
@@ -45,19 +46,19 @@ Built for cybersecurity students, professionals, and small businesses, YoInspect
 ## 🚀 Usage
 ### Android Exploitation (Reverse_TCP)
 1. Generate a malicious APK and start a listener:
-   Choose option 1
-   Enter APK filename (e.g., evil.apk)
-   Enter LPORT (e.g., 4444)
+   - Choose option 1
+   - Enter APK filename (e.g., evil.apk)
+   - Enter LPORT (e.g., 4444)
    YoInspector will auto-detect your IP and generate the payload.
 
 ### Windows Exploitation (EternalBlue)
 1. Exploit a vulnerable Windows machine:
-   Choose option 2
-   Enter target IP (RHOST)
-   Enter LPORT (e.g., 5555)
+   - Choose option 2
+   - Enter target IP (RHOST)
+   - Enter LPORT (e.g., 5555)
    The tool auto-configures Metasploit for EternalBlue.
 
 ## ⚠️ Ethical Guidelines
-Legal Disclaimer: YoInspector displays a mandatory ethical agreement before execution.
-Authorized Use Only: Test only systems you own or have explicit permission to assess.
-Isolated Labs: Use virtual machines (e.g., VirtualBox) in isolated networks.
+- Legal Disclaimer: YoInspector displays a mandatory ethical agreement before execution.
+- Authorized Use Only: Test only systems you own or have explicit permission to assess.
+- Isolated Labs: Use virtual machines (e.g., VirtualBox) in isolated networks.
